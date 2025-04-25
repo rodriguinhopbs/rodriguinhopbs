@@ -2,7 +2,8 @@
 
 🎯 **Cientista de Dados & Desenvolvedor Full Stack**  
 💡 Especialista em IA Generativa, LLMs, ETL, .NET, Python, Web/Mobile/Desktop  
-🌎 Brasil • [💼 LinkedIn](https://www.linkedin.com/in/rodrigo-sdev)
+🌎 Brasil
+[💼 LinkedIn](https://www.linkedin.com/in/rodrigo-sdev)
 
 ---
 
@@ -59,4 +60,4 @@ Atuo de ponta a ponta: do ETL ao modelo preditivo e à entrega de aplicações w
 
 ⭐️ **Sinta-se à vontade para explorar meus repositórios e me chamar para bater um papo sobre IA, dados ou desenvolvimento!**
 ---
-***25/04/2025 - Obs: Estou organizando o portfólio, é possivel que alguns repositorios estejam vazio.***
+***25/04/2025 - Obs: Estou organizando o portfólio, é possivel que alguns repositorios estejam vazios.***
